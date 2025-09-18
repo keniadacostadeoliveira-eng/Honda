@@ -1,3 +1,4 @@
+HEAD:CSS/estilo.css
 /* ESTILO PADRÃO*/
 body{
     font-family: roboto, 'open sans', 'Helvetica Neue', sans-serif;
@@ -104,3 +105,4 @@ h3{
                 text-align: center; 
         }
     }
+
