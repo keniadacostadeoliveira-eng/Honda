@@ -96,4 +96,8 @@ h3{
             display: block;
             margin-top: 10px 0;
         }
+
+        #rapido{
+            height: 0 auto;
+        }
     }
