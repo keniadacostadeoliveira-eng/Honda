@@ -100,4 +100,8 @@ h3{
         #rapido{
             height: auto;
         }
+
+        h1{
+            font-size: 40px;
+        }
     }
