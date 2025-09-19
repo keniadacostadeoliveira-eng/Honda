@@ -104,5 +104,9 @@ h3{
                 word-wrap: break-word;   /* quebra palavras muito grandes */
                 text-align: center; 
         }
+
+        #rapido{
+            height: auto;
+        }
     }
 
