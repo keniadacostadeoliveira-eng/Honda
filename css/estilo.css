@@ -106,7 +106,7 @@ h3{
         }
 
         #rapido{
-            height: auto;
+            height: 0 auto;
         }
     }
 
