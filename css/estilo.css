@@ -98,7 +98,11 @@ h3{
         }
 
         #rapido{
+            width: 100%;
             height: auto;
+            flex-direction: column;
+            padding: 10px;
+            text-align: center;
         }
 
         h1{
